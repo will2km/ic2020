@@ -10,8 +10,8 @@ Just a warning, but this code was thrown together fairly quickly, it will probab
 = Details =
 
 Additional things you will need:
-  * ROS [we used cturtle]
-  * ROS's kinect package (the deprecated one )
+  * ROS (we used cturtle)
+  * ROS's kinect package (the deprecated one)
   * GPU SURF ( http://homes.esat.kuleuven.be/~ncorneli/gpusurf/ )
 
 Just to give a quick overview of the system flow:
