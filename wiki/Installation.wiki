@@ -11,17 +11,17 @@ Just a warning, but this code was thrown together fairly quickly, it will probab
 
 Additional things you will need:
   * ROS [we used cturtle]
-  * ROS's kinect package [the deprecated one =( ]
+  * ROS's kinect package (the deprecated one )
   * GPU SURF ( http://homes.esat.kuleuven.be/~ncorneli/gpusurf/ )
 
 Just to give a quick overview of the system flow:
-  #kinect_camera
-  #ic2020_optflow
-  #ic2020_surf
-  #ic2020_vodom
-  #ic2020_loop
-  #ic2020_toro
-  #ic2020_render
+  # kinect_camera
+  # ic2020_optflow
+  # ic2020_surf
+  # ic2020_vodom
+  # ic2020_loop
+  # ic2020_toro
+  # ic2020_render
 
 For those of you familiar with our video:
 http://www.youtube.com/watch?v=MafVZQDgmsk
