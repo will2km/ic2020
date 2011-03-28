@@ -15,19 +15,13 @@ Additional things you will need:
   * GPU SURF ( http://homes.esat.kuleuven.be/~ncorneli/gpusurf/ )
 
 Just to give a quick overview of the system flow:
-  1. kinect_camera
-
-  2. ic2020_optflow
-
-  3. ic2020_surf
-
-  4. ic2020_vodom
-
-  5. ic2020_loop
-
-  6. ic2020_toro
-
-  7. ic2020_render
+  #1. kinect_camera
+  #2. ic2020_optflow
+  #3. ic2020_surf
+  #4. ic2020_vodom
+  #5. ic2020_loop
+  #6. ic2020_toro
+  #7. ic2020_render
 
 For those of you familiar with our video:
 http://www.youtube.com/watch?v=MafVZQDgmsk
